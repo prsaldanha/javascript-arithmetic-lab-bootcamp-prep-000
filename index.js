@@ -20,7 +20,7 @@ function divide(first, second)
 
 function inc(n)
 {
-  return n++;
+  return ++n;
 }
 
 function dec(n)
