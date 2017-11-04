@@ -5,7 +5,7 @@ function add(first, second)
 
 function subtract(first, second)
 {
-  return second - first;
+  return first - second;
 }
 
 function multiply(first, second)
